@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	font-size: 50px;
+	text-align: center;
+	margin-top:0px;
+}
+
+h2{
+	font-size: 40px;
+	text-align: center;
+	color: #8b0000;
+}
+
+h3{
+	font-size: 35px;
+	text-decoration: underline;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+p{
+	font-size: 35;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+div{
+	background-color: #ffefd5;
+}
+
+body{
+	background-color: #ff9e81;
+}
+
+span{
+	text-align: center;
+}
+
+#site {
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 0;
+	padding-bottom: 80px;
+}
+
+#cornova{
+	background-color: #FDE9B6;
+	height: 250px;
+}
+
+#cornova1{
+	background-color: #FDE9B6;
+	height: 250px;
+}
+
+#cornova2{
+	background-color: #FDE9B6;
+	height: 250px;
+}
+
+#cornova3{
+	text-align: center;
+}
+
+#cornova4{
+	background-color: #FDE9B6;
+	height: 250px;
+}
+
+img{
+	margin-left: 30px;
+	margin-right: 30px;
+}
